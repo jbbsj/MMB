@@ -95,7 +95,7 @@ $(function(){
 		})
 		// 开关思想
 		var i = 0;
-		document.getElementsByClassName('navbar')[0].addEventListener('tap', function () {
+			document.getElementsByClassName('navbar')[0].addEventListener('tap', function () {
 		   
 			if (i == 0) {
         if (clie) {
